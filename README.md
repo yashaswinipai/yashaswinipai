@@ -2,9 +2,9 @@
   
 # Hello there, I'm Yashaswini :wave:
 
-<img src = 'https://github.com/pran01/pran01/blob/master/images/anime2.gif' alt = 'Anime programmer' align='right' height='250'/>
+<img src = 'github.com/yashaswinipai/yashaswinipai/blob/main/images/img1.jpg' alt = 'Anime programmer' align='right' height='250'/>
 
-[![Linkedin Badge](https://img.shields.io/badge/-pranavsinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yashpai26)](www.linkedin.com/in/yashpai26)      [![Gmail Badge](https://img.shields.io/badge/-yashaswinidpai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashaswinidpai@gmail.com)](mailto:yashaswinidpai@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-yashaswinipai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yashpai26)](www.linkedin.com/in/yashpai26)      [![Gmail Badge](https://img.shields.io/badge/-yashaswinidpai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashaswinidpai@gmail.com)](mailto:yashaswinidpai@gmail.com)
 
 
 Welcome to my github profile.I am passionate about coding.
@@ -15,7 +15,4 @@ Welcome to my github profile.I am passionate about coding.
 * Web Development
 
 ## Languages and Frameworks
-<img src = 'https://github.com/pran01/pran01/blob/master/images/c-original.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/cpp.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/python2.png' height='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/html.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/css.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/js.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/bootstrap.svg' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/flask.png' width='45'/>   <img src = 'https://github.com/pran01/pran01/blob/master/images/sqlite.svg' width='100'/> 
-
-
-</div>
+<img src = 'https://github.com/yashaswinipai/yashaswinipai/blob/main/images/html.svg' width='45'/>   <img src = 'https://github.com/yashaswinipai/yashaswinipai/blob/main/images/cpp.svg' width='45'/>   <img src = 'https://github.com/yashaswinipai/yashaswinipai/blob/main/images/c-original.svg' height='45'/>   <img src = 'https://github.com/yashaswinipai/yashaswinipai/blob/main/images/bootstrap.svg' width='45'/>   
