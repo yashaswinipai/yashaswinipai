@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-pranavsinha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/yashpai26)](www.linkedin.com/in/yashpai26)      [![Gmail Badge](https://img.shields.io/badge/-yashaswinidpai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashaswinidpai@gmail.com)](mailto:yashaswinidpai@gmail.com)
 
 
-Welcome to my github profile. I am from India and love coding and anime.
+Welcome to my github profile.I am passionate about coding.
 
 ## Technologies I am interested in :computer:
 * Machine Learning
