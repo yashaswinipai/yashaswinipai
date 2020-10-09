@@ -2,7 +2,7 @@
   
 # Hello there, I'm Yashaswini :wave:
 
-<img src = 'github.com/yashaswinipai/yashaswinipai/blob/main/images/img1.jpg' align='right' height='250'/>
+<img src = 'https://github.com/yashaswinipai/yashaswinipai/blob/main/images/img1.jpg' align='right' height='250'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-yashaswinipai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashpai26)](https://www.linkedin.com/in/yashpai26)      [![Gmail Badge](https://img.shields.io/badge/-yashaswinidpai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashaswinidpai@gmail.com)](mailto:yashaswinidpai@gmail.com)
 
